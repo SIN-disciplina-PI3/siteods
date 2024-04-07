@@ -31,13 +31,6 @@ h1 {
   line-height: 1.1;
 }
 
-.navbar {
-  background-color: #051c5b;
-  padding: 20px;
-  display: flex;
-  justify-content: center;
-  
-}
 
 .button-container {
   display: flex;
